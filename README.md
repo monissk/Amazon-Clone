@@ -3,7 +3,7 @@ A Pixel-Perfect Frontend Replica Built with HTML & CSS
 
 This project is a fully responsive frontend clone of Amazon’s homepage, crafted entirely with HTML and CSS. It recreates the core structure, design aesthetics, and user interface elements of the original Amazon site — serving as an excellent showcase of frontend development skills and modern web layout techniques.
 
-🚀 Key Features:
+🚀 Key Features :
 _Responsive Navigation Bar -
 Includes Amazon’s signature logo, location selector, search bar with category dropdown, language option, sign-in section, orders link, and cart icon — all styled to mirror the original.
 _Hero Section with Promotional Banner - 
@@ -15,10 +15,30 @@ Hover transitions, border effects, and clean typography deliver a polished and u
 _Detailed Footer Section - 
 A complex, multi-column footer layout with links and icons, closely replicating Amazon's extensive informational panel.
 
-🧰 Technologies Used:
+🧰 Technologies Used :
 HTML – Semantic structure and layout
 CSS – Custom styling, grid & flexbox layouts, hover effects, responsive design
 Font Awesome – Iconography for search, location, cart, and more
 
-🎯 Purpose:
+📁 Project Directory Structure :
+
+├── index.html                 # Main HTML structure
+├── style.css                  # Main stylesheet
+│
+├── images/                    # All project images used for UI
+│   ├── amazon_logo.png
+│   ├── USA_Flag.png
+│   ├── box1_image.jpg
+│   ├── box2_image.jpg
+│   ├── box3_image.jpg
+│   ├── box4_image.jpg
+│   ├── box5_image.jpg
+│   ├── box6_image.jpg
+│   ├── box7_image.jpg
+│   ├── box8_image.jpg
+│   ├── hero_image.jpg
+│
+├── README.md                  # Project documentation (to be added)
+
+🎯 Purpose :
 This clone is built for educational purposes — perfect for frontend practice, portfolio presentation, or understanding e-commerce layout patterns. It doesn’t include backend functionality or JavaScript logic, focusing purely on UI/UX development.
